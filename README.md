@@ -2,7 +2,9 @@
 
 **The source of Claude Cli was leaked by sopurcemap and found on Chaofan's X account.** 
 
-https://x.com/Fried\_rice/status/2038894956459290963
+[https://x.com/Fried\\\_rice/status/2038894956459290963](https://x.com/Fried%5C_rice/status/2038894956459290963) 
+
+[https://kuber.studio/blog/AI/Claude-Code's-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let's-Talk-About-it](https://kuber.studio/blog/AI/Claude-Code's-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let's-Talk-About-it)
 
 # Claude Code CLI — Architecture & Structural Guide
 
