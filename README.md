@@ -83,6 +83,7 @@ for reference, here's the exact part in user.ts that contains the employee-verif
 you're essentially getting a downgraded version of Claude Code, even though known fixes exist
 
 ![alt text](image.png)
+![alt text](image-1.png)
 
 # Claude Code CLI — Architecture & Structural Guide
 
